@@ -1,0 +1,62 @@
+/* CLASESs*/
+.caja{
+    background-color: cornflowerblue;
+    width: 48%;
+    height: 48%;
+    border: 1px solid red;
+    display: inline-block;
+    border-radius: 100px 100px 100px 100px;
+}
+
+.color-primary{
+    color:blueviolet;
+}
+.color-secondary{
+    color: rgb(0, 189, 189);
+}
+.color-medium{
+    color: rgb(189, 0, 88);
+}
+.centrar-texto{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 40px;
+}
+
+.subrayar{
+    text-decoration: underline;
+}
+
+.mayuscula{
+    text-transform: uppercase;
+}
+
+/* SELECTOR*/
+
+p {
+    text-align: justify;
+    text-transform: uppercase;
+}
+span{
+    color:red;
+    text-decoration: underline;
+}
+
+input{
+    width: 98%;
+    margin-bottom: 10px;
+}
+/* SELECTORES ETIQUETADOS*/
+
+#titulo1{
+    color:green;
+    text-transform: uppercase;
+}
+
+#nombre{
+    color: chocolate;
+}
+
+#correo{
+    color:darkolivegreen;
+}
