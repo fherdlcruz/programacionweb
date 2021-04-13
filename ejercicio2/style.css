@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(to right, #e6d99f, #b8ca91, #89bb8b, #58a98c, #17968f);
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background-image: linear-gradient(to right, #e6d99f, #b8ca91, #89bb8b, #58a98c, #17968f);
+
+}
+.logo{
+    width: 150px;
+    height: 90px;
+    margin: 4px;
+    display: inline-block;
+}
+.logo img{
+    width: 100%;
+    display: block;
+}
+
+.titulo{
+    width: 700px;
+    height: 90px;
+    margin: 4px;
+    display: inline-block;
+    text-align: center  !important;
+}
+.titulo h1, h2, h3, h4, h5, h6{
+    display: table;
+    color: brown;
+}
+
+.opciones{
+    width: 300px;
+    height: 90px;
+    margin: 4px;
+    display: inline-block;
+}
+.opciones span{
+    display: table;
+    margin: 0px auto;
+    margin: 10%;
+    color: brown;
+}
